@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Vanlam@020499",
+    "database": "demo",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Vanlam@020499",
+    "database": "demo",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Vanlam@020499",
+    "database": "demo",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
